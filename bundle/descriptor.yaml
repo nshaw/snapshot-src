@@ -3,5 +3,5 @@ description: This is the snapshot bundle
 
 components:
   widgets:
-      - ui/widgets/snapshot/snapshot/snapshot-widget.ftl
+      - ui/widgets/snapshot/snapshot/snapshot-widget-descriptor.yaml
 
