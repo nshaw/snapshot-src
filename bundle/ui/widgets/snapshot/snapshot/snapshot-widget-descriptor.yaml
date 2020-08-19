@@ -1,0 +1,6 @@
+code: snapshot-widget
+titles:
+  en: Snapshot Widget
+  it: Snapshot Widget
+group: free
+customUiPath: snapshot-widget.ftl

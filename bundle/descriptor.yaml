@@ -1,0 +1,7 @@
+code: snapshot-bundle
+description: This is the snapshot bundle
+
+components:
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
