@@ -4,6 +4,7 @@ This repo is a wrapper of a <https://github.com/Yog9/SnapShot> photo viewer, sou
 
 The base build structure was generated using JHipster 6.9.0 and the Entando Blueprint 6.2.
 
-# References
+# Reference
 
+* [Entando documentation and tutorials](https://dev.entando.org)
 * [JHipster homepage and latest documentation](https://www.jhipster.tech)
