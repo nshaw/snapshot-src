@@ -2,8 +2,8 @@
 <script src="<@wp.resourceURL />snapshot-bundle/static/js/2.d9a0ff17.chunk.js"></script>
 <script src="<@wp.resourceURL />snapshot-bundle/static/js/2.d9a0ff17.chunk.js.LICENSE.txt"></script>
 <script src="<@wp.resourceURL />snapshot-bundle/static/js/2.d9a0ff17.chunk.js.map"></script>
-<script src="<@wp.resourceURL />snapshot-bundle/static/js/main.fefe0c7a.chunk.js"></script>
-<script src="<@wp.resourceURL />snapshot-bundle/static/js/main.fefe0c7a.chunk.js.map"></script>
+<script src="<@wp.resourceURL />snapshot-bundle/static/js/main.e7fec359.chunk.js"></script>
+<script src="<@wp.resourceURL />snapshot-bundle/static/js/main.e7fec359.chunk.js.map"></script>
 <script src="<@wp.resourceURL />snapshot-bundle/static/js/runtime-main.54f9bf49.js"></script>
 <script src="<@wp.resourceURL />snapshot-bundle/static/js/runtime-main.54f9bf49.js.map"></script>
 <link href="<@wp.resourceURL />snapshot-bundle/static/css/main.1b83491f.chunk.css" rel="stylesheet">
