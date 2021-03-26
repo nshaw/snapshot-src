@@ -9,6 +9,7 @@ const Navigation = () => {
         <li><NavLink to="/snow">Snow</NavLink></li>
         <li><NavLink to="/bird">Birds</NavLink></li>
         <li><NavLink to="/food">Food</NavLink></li>
+        <li><NavLink to="/city">Cities</NavLink></li>
       </ul>
     </nav>
   );
